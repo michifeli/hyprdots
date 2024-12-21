@@ -27,7 +27,16 @@ I hope this serves as a guide for your rice or for anyone looking to replicate m
 <img align="center" src="/assets/preview2.png">
 <img align="center" src="/assets/preview3.png">
 
-## Credits and Inspiration
+## 💝 Thanks To
 
+Thanks to these programmers for their work and making it open source so that people like me can use it, their work inspired me to develop my configurations.
 
-<img align="center" src="/assets/cat.svg">
+* [JaKooLit](https://github.com/JaKooLit "Waybar inspiration")
+* [s4vitar](https://github.com/s4vitar "zsh and kitty inspiration")
+* [baolhq](https://github.com/baolhq "macchina inspiration")
+* Leyrra my friend (wofi and hyprland inspiration, he show me hyprland world)
+* Nacochna, to support me and she said that the rice was pretty
+
+<p align="center">
+	<img src="/assets/cat.svg />
+</p>
