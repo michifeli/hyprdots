@@ -37,7 +37,7 @@ Thanks to these programmers for their work and making it open source so that peo
 * [s4vitar](https://github.com/s4vitar "zsh and kitty inspiration")
 * [baolhq](https://github.com/baolhq "macchina inspiration")
 * Leyrra my friend (wofi and hyprland inspiration, he showed me the hyprland world)
-* Nacochna, to support me and she said that the rice was pretty
+* Nacochna, to support me and she said that the rice was pretty, well, she's pretty too (fact).
 
 <p align="center">
 	<img src="/assets/cat.svg />
