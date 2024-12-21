@@ -4,11 +4,6 @@
 !/.config/
 !/.config/**
 
-!/.config/Code/
-!/.config/Code/User/
-!/.config/Code/User/settings.json
-
-/.config/Code/*
 !/.config/Code/User/settings.json
 
 /.config/dconf/
