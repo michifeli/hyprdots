@@ -23,4 +23,11 @@ I hope this serves as a guide for your rice or for anyone looking to replicate m
 
 ## Take a look
 
+<img align="center" src="/assets/preview.png">
+<img align="center" src="/assets/preview2.png">
+<img align="center" src="/assets/preview3.png">
+
 ## Credits and Inspiration
+
+
+<img align="center" src="/assets/cat.svg">
