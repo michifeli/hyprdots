@@ -23,6 +23,8 @@ I hope this serves as a guide for your rice or for anyone looking to replicate m
 
 ## Take a look
 
+> The wallpaper looks static but it's a gif
+
 <img align="center" src="/assets/preview.png">
 <img align="center" src="/assets/preview2.png">
 <img align="center" src="/assets/preview3.png">
