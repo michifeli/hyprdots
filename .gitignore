@@ -6,9 +6,10 @@
 
 !/.config/Code/
 !/.config/Code/User/
-!/.config/Code/User/*.json
-/.config/Code/**/*
-!/.config/Code/User/*.json
+!/.config/Code/User/settings.json
+
+/.config/Code/*
+!/.config/Code/User/settings.json
 
 /.config/dconf/
 /.config/go/

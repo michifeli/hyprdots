@@ -1,0 +1,59 @@
+/* ---- 💫 https://github.com/JaKooLit 💫 ---- */
+
+// ### DEFAULT Top -Laptop ### //
+{
+"include": "~/.config/waybar/modules",
+"layer": "top",
+//"mode": "dock",
+"exclusive": true,
+"passthrough": false,
+"position": "top",
+"spacing": 3,
+"fixed-center": true,
+"ipc": true,
+"width": 1350,
+"margin-top": 3,
+"margin-left": 8,
+"margin-right": 8,
+
+"modules-left": [
+	"hyprland/workspaces#pacman",
+	"custom/separator#dot-line",
+	"cpu",
+	"custom/separator#dot-line", 
+	"memory",
+	"custom/separator#dot-line",
+	"custom/separator#blank_3",
+	],
+
+"modules-center": [
+	"custom/menu",
+	"custom/separator#dot-line",
+	"idle_inhibitor", 
+	"custom/separator#dot-line",
+	"clock",
+	"custom/separator#dot-line",
+	"custom/light_dark",
+	"custom/separator#dot-line",	
+	"custom/lock",
+	], 
+
+"modules-right": [
+	"network",
+	"custom/separator#dot-line",
+	"custom/swaync",
+	"tray",
+	"custom/separator#dot-line",
+	"bluetooth",
+	"custom/separator#dot-line", 
+	"backlight",
+	"custom/separator#dot-line",
+	"pulseaudio",
+	"custom/separator#dot-line",
+	"pulseaudio#microphone",
+	"custom/separator#dot-line", 
+	"battery",
+	"custom/separator#dot-line",
+	"custom/power",
+	],
+}
