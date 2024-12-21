@@ -21,6 +21,9 @@
 !/.github/
 !/.github/**
 
+!/assets/
+!/assets/**
+
 !/.fzf.zsh
 !/.gtkrc-2.0
 !/.p10k.zsh
