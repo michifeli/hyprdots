@@ -4,7 +4,10 @@
 !/.config/
 !/.config/**
 
-/.config/Code/**
+!/.config/Code/
+!/.config/Code/User/
+!/.config/Code/User/*.json
+/.config/Code/**/*
 !/.config/Code/User/*.json
 
 /.config/dconf/
