@@ -11,7 +11,7 @@
     "editor.hideCursorInOverviewRuler": true,
     "editor.formatOnSave": true,
     "editor.guides.indentation": false,
-    "editor.matchBrackets": "never",
+    "editor.matchBrackets": false,
     "editor.glyphMargin": false,
     "breadcrumbs.enabled": false,
     "indenticator.width": 0.1,
