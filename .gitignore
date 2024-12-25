@@ -6,6 +6,7 @@
 
 !/.config/Code/User/settings.json
 
+/.config/astro/
 /.config/obsidian/
 /.config/Code/
 /.config/dconf/
