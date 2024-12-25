@@ -23,4 +23,22 @@ I hope this serves as a guide for your rice or for anyone looking to replicate m
 
 ## Take a look
 
-## Credits and Inspiration
+> The wallpaper looks static but it's a gif
+
+<img align="center" src="/assets/preview.png">
+<img align="center" src="/assets/preview2.png">
+<img align="center" src="/assets/preview3.png">
+
+## 💝 Thanks To
+
+Thanks to these programmers for their work and making it open source so that people like me can use it, their work inspired me to develop my configurations.
+
+* [JaKooLit](https://github.com/JaKooLit "Waybar inspiration")
+* [s4vitar](https://github.com/s4vitar "zsh and kitty inspiration")
+* [baolhq](https://github.com/baolhq "macchina inspiration")
+* Leyrra my friend (wofi and hyprland inspiration, he showed me the hyprland world)
+* Nacochna, to support me and she said that the rice was pretty, well, she's pretty too (fact).
+
+<p align="center">
+	<img src="/assets/cat.svg />
+</p>
