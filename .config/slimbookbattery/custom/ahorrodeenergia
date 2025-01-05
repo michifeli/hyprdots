@@ -430,7 +430,7 @@ DEVICES_TO_ENABLE_ON_STARTUP=""
 #   bluetooth, wifi, wwan.
 # Default: <none>
 # Slimbook App
-DEVICES_TO_DISABLE_ON_BAT_NOT_IN_USE=wifi
+DEVICES_TO_DISABLE_ON_BAT_NOT_IN_USE=
 
 # Battery charge thresholds (ThinkPad only).
 # May require external kernel module(s), refer to the output of tlp-stat -b.
