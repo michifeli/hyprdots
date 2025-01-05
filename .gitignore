@@ -19,6 +19,7 @@
 /.config/systemd/
 /.config/torbrowser/
 /.config/vesktop/
+/.config/unity3d/
 
 !/.github/
 !/.github/**
