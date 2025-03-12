@@ -20,6 +20,7 @@
 /.config/torbrowser/
 /.config/vesktop/
 /.config/unity3d/
+/.config/wireshark/
 
 !/.github/
 !/.github/**
