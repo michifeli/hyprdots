@@ -33,9 +33,9 @@ I hope this serves as a guide for your rice or for anyone looking to replicate m
 
 Thanks to these programmers for their work and making it open source so that people like me can use it, their work inspired me to develop my configurations.
 
-* [JaKooLit](https://github.com/JaKooLit "Waybar inspiration")
-* [s4vitar](https://github.com/s4vitar "zsh and kitty inspiration")
-* [baolhq](https://github.com/baolhq "macchina inspiration")
+* [JaKooLit](https://github.com/JaKooLit "Waybar inspiration") (waybar inspiration)
+* [s4vitar](https://github.com/s4vitar "zsh and kitty inspiration") (zsh and kitty configs)
+* [baolhq](https://github.com/baolhq "macchina inspiration")  (macchina inspiration)
 * Leyrra my friend (wofi and hyprland inspiration, he showed me the hyprland world)
 * Nacochna, to support me and she said that the rice was pretty, well, she's pretty too (fact).
 
