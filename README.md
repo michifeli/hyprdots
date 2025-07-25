@@ -1,5 +1,3 @@
-> PLEASE GIVE ME A STAR 😭
-
 # Michi's Dotfiles
 
 This repository contains my **Hyprland** dotfiles for **Arch Linux**. I set up this environment primarily for tasks related to my undergraduate studies in **Telematics Engineering** and some work in **cybersecurity** and **programming**.
